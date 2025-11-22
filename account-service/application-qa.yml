@@ -11,6 +11,6 @@ management:
         include: "*"
 
 account-service:
-   default-value: "Configuração QA"
+   default-value: "Configuração da QA"
 
 
