@@ -12,6 +12,6 @@ management:
 
 account-service:
   greeting: "PEGOU"
-  default-value: "Configuração Prod"
+  default-value: "Configuração Prod pronta"
 
 
