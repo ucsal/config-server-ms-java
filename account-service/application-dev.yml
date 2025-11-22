@@ -11,6 +11,6 @@ management:
         include: "*"
 
 account-service:
-  default-value: "Configuração Dev"
+  default-value: "Configuração do Dev"
 
 
